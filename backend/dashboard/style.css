@@ -1,0 +1,39 @@
+
+
+
+
+#dashboard a{
+  text-decoration: none;
+}
+#dashboard {
+  width:1200px;
+  padding: 0;
+  margin: 0 auto;
+}
+
+#dashboard li a:link,
+#dashboard li a:visited,
+#dashboard li a:active,
+#dashboard li a:hover {
+  color: #fff;
+  font-size: 20px;
+}
+#dashboard li {
+  background-color: #49c1a2;
+  display: inline-block;
+  width: 29%;
+  margin: 2%;
+  padding: 2%;
+  box-sizing: border-box;
+  text-align: center;
+  list-style: none;
+  list-style-position: inside;
+  border: none;
+}
+#dashboard li:hover{
+  background-color: #37a08e;
+  
+}
+#dashboard i {
+  margin-bottom: 5px;
+}
