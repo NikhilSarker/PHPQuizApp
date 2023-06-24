@@ -38,8 +38,6 @@ $total = $result->num_rows;
 				<ul>
 					<li><a href="./index.php">HOME</a></li>
 					<li><a href="main.php">HTML</a></li>
-					<li><a href="#">Log in</a></li>
-					<li><a href="#">Register</a></li>
 				</ul>
 			</div>
 		</div>
